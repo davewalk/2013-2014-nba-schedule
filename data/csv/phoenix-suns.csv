@@ -1,0 +1,83 @@
+DATE,TIME(EST),OPPONENT,ARENA,HOME
+10-30-2013,10:00 PM,Portland Trail Blazers,US Airways Center,True
+11-1-2013,10:00 PM,Utah Jazz,US Airways Center,True
+11-3-2013,7:00 PM,Oklahoma City Thunder,Chesapeake Energy Arena,False
+11-5-2013,8:00 PM,New Orleans Pelicans,New Orleans Arena,False
+11-6-2013,8:30 PM,San-Antonio Spurs,AT&T Center,False
+11-8-2013,9:00 PM,Denver Nuggets,US Airways Center,True
+11-10-2013,8:00 PM,New Orleans Pelicans,US Airways Center,True
+11-13-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+11-15-2013,9:00 PM,Brooklyn Nets,US Airways Center,True
+11-19-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
+11-20-2013,9:00 PM,Sacramento Kings,US Airways Center,True
+11-22-2013,7:00 PM,Charlotte Bobcats,Time Warner Cable Arena,False
+11-24-2013,6:00 PM,Orlando Magic,Amway Center,False
+11-25-2013,7:30 PM,Miami Heat,AmericanAirlines Arena,False
+11-27-2013,9:00 PM,Portland Trail Blazers,US Airways Center,True
+11-29-2013,9:00 PM,Utah Jazz,EnergySolutions Arena,False
+11-30-2013,9:00 PM,Utah Jazz,US Airways Center,True
+12-3-2013,8:00 PM,Memphis Grizzlies,FedExForum,False
+12-4-2013,8:00 PM,Houston Rockets,Toyota Center,False
+12-6-2013,9:00 PM,Toronto Raptors,US Airways Center,True
+12-10-2013,10:30 PM,Los Angeles Lakers,Staples Center,False
+12-13-2013,9:00 PM,Sacramento Kings,US Airways Center,True
+12-15-2013,8:00 PM,Golden State Warriors,US Airways Center,True
+12-18-2013,9:00 PM,San-Antonio Spurs,US Airways Center,True
+12-20-2013,9:00 PM,Denver Nuggets,Pepsi Center,False
+12-21-2013,9:00 PM,Dallas Mavericks,US Airways Center,True
+12-23-2013,9:00 PM,Los Angeles Lakers,US Airways Center,True
+12-27-2013,10:30 PM,Golden State Warriors,Oracle Arena,False
+12-28-2013,9:00 PM,Philadelphia 76ers,US Airways Center,True
+12-30-2013,10:30 PM,Los Angeles Clippers,Staples Center,False
+1-2-2014,9:00 PM,Memphis Grizzlies,US Airways Center,True
+1-4-2014,9:00 PM,Milwaukee Bucks,US Airways Center,True
+1-7-2014,8:00 PM,Chicago Bulls,United Center,False
+1-8-2014,8:00 PM,Minnesota Timberwolves,Target Center,False
+1-10-2014,8:00 PM,Memphis Grizzlies,FedExForum,False
+1-11-2014,7:30 PM,Detroit Pistons,The Palace of Auburn Hills,False
+1-13-2014,7:30 PM,New York Knicks,Madison Square Garden,False
+1-15-2014,9:00 PM,Los Angeles Lakers,US Airways Center,True
+1-17-2014,9:00 PM,Dallas Mavericks,US Airways Center,True
+1-19-2014,8:00 PM,Denver Nuggets,US Airways Center,True
+1-22-2014,9:00 PM,Indiana Pacers,US Airways Center,True
+1-24-2014,9:00 PM,Washington Wizards,US Airways Center,True
+1-26-2014,6:00 PM,Cleveland Cavaliers,Quicken Loans Arena,False
+1-27-2014,7:00 PM,Philadelphia 76ers,Wells Fargo Center,False
+1-29-2014,8:00 PM,Milwaukee Bucks,BMO Harris Bradley Center,False
+1-30-2014,7:00 PM,Indiana Pacers,Bankers Life Fieldhouse,False
+2-1-2014,9:00 PM,Charlotte Bobcats,US Airways Center,True
+2-4-2014,9:00 PM,Chicago Bulls,US Airways Center,True
+2-5-2014,8:00 PM,Houston Rockets,Toyota Center,False
+2-8-2014,9:00 PM,Golden State Warriors,US Airways Center,True
+2-11-2014,9:00 PM,Miami Heat,US Airways Center,True
+2-18-2014,9:00 PM,Denver Nuggets,Pepsi Center,False
+2-19-2014,9:00 PM,Boston Celtics,US Airways Center,True
+2-21-2014,9:00 PM,San-Antonio Spurs,US Airways Center,True
+2-23-2014,8:00 PM,Houston Rockets,US Airways Center,True
+2-25-2014,9:00 PM,Minnesota Timberwolves,US Airways Center,True
+2-26-2014,9:00 PM,Utah Jazz,EnergySolutions Arena,False
+2-28-2014,10:30 PM,New Orleans Pelicans,US Airways Center,True
+3-2-2014,8:00 PM,Atlanta Hawks,US Airways Center,True
+3-4-2014,9:00 PM,Los Angeles Clippers,US Airways Center,True
+3-6-2014,9:00 PM,Oklahoma City Thunder,US Airways Center,True
+3-9-2014,9:00 PM,Golden State Warriors,Oracle Arena,False
+3-10-2014,10:30 PM,Los Angeles Clippers,Staples Center,False
+3-12-2014,10:00 PM,Cleveland Cavaliers,US Airways Center,True
+3-14-2014,7:30 PM,Boston Celtics,TD Garden,False
+3-16-2014,1:00 PM,Toronto Raptors,Air Canada Centre,False
+3-17-2014,7:30 PM,Brooklyn Nets,Barclays Center,False
+3-19-2014,10:00 PM,Orlando Magic,US Airways Center,True
+3-21-2014,10:00 PM,Detroit Pistons,US Airways Center,True
+3-23-2014,3:30 PM,Minnesota Timberwolves,Target Center,False
+3-24-2014,7:30 PM,Atlanta Hawks,Philips Arena,False
+3-26-2014,7:00 PM,Washington Wizards,Verizon Center,False
+3-28-2014,10:00 PM,New York Knicks,US Airways Center,True
+3-30-2014,9:30 PM,Los Angeles Lakers,Staples Center,False
+4-2-2014,10:00 PM,Los Angeles Clippers,US Airways Center,True
+4-4-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+4-6-2014,9:00 PM,Oklahoma City Thunder,US Airways Center,True
+4-9-2014,8:00 PM,New Orleans Pelicans,New Orleans Arena,False
+4-11-2014,8:30 PM,San-Antonio Spurs,AT&T Center,False
+4-12-2014,8:30 PM,Dallas Mavericks,American Airlines Center,False
+4-14-2014,10:00 PM,Memphis Grizzlies,US Airways Center,True
+4-16-2014,10:30 PM,Sacramento Kings,Sleep Train Arena,False

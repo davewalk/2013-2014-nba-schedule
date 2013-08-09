@@ -1,4 +1,4 @@
-import requests, json
+import requests, json, csv
 from bs4 import BeautifulSoup
 import time
 import datetime
@@ -39,6 +39,10 @@ if __name__ == '__main__':
         r = requests.get(team_url)
 
         if r.status_code is 200:
+
+            csv_file = open('../data/csv/' + team['full_name'] + '.csv', 'w')
+            writer = csv.writer(csv_file, delimiter=',')
+            writer.writerow(['DATE','TIME(EST)','OPPONENT','ARENA','HOME'])
 
             soup = BeautifulSoup(r.text)
             schedule = soup.find_all('table')[0]
@@ -136,6 +140,11 @@ if __name__ == '__main__':
                         'tv': broadcast
                     }
                     final_schedule.append(game)
+                    writer.writerow([full_date,
+                                     gametime, 
+                                     game['opponent']['location'] + ' ' + game['opponent']['nickname'],
+                                     place['arena'],
+                                     isHome])
 
             json_file = open('../data/json/' + team['full_name'] + '.json', 'w')
 
@@ -145,6 +154,7 @@ if __name__ == '__main__':
             json_file.write(final_json)
             print '{0} {1} completed...'.format(team['location'], team['nickname'])
             json_file.close()
+            csv_file.close()
             time.sleep(5)
 
         else:

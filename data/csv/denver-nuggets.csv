@@ -1,0 +1,83 @@
+DATE,TIME(EST),OPPONENT,ARENA,HOME
+10-30-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
+11-1-2013,9:00 PM,Portland Trail Blazers,Pepsi Center,True
+11-5-2013,9:00 PM,San-Antonio Spurs,Pepsi Center,True
+11-7-2013,9:00 PM,Atlanta Hawks,Pepsi Center,True
+11-8-2013,9:00 PM,Phoenix Suns,US Airways Center,False
+11-11-2013,9:00 PM,Utah Jazz,EnergySolutions Arena,False
+11-13-2013,9:00 PM,Los Angeles Lakers,Pepsi Center,True
+11-15-2013,8:00 PM,Minnesota Timberwolves,Pepsi Center,True
+11-16-2013,8:00 PM,Houston Rockets,Toyota Center,False
+11-18-2013,8:00 PM,Oklahoma City Thunder,Chesapeake Energy Arena,False
+11-21-2013,10:30 PM,Chicago Bulls,Pepsi Center,True
+11-23-2013,9:00 PM,Dallas Mavericks,Pepsi Center,True
+11-25-2013,8:30 PM,Dallas Mavericks,American Airlines Center,False
+11-27-2013,8:00 PM,Minnesota Timberwolves,Target Center,False
+11-29-2013,9:00 PM,New York Knicks,Pepsi Center,True
+12-1-2013,1:00 PM,Toronto Raptors,Air Canada Centre,False
+12-3-2013,7:30 PM,Brooklyn Nets,Barclays Center,False
+12-4-2013,7:00 PM,Cleveland Cavaliers,Quicken Loans Arena,False
+12-6-2013,7:30 PM,Boston Celtics,TD Garden,False
+12-7-2013,7:00 PM,Philadelphia 76ers,Wells Fargo Center,False
+12-9-2013,7:00 PM,Washington Wizards,Verizon Center,False
+12-13-2013,9:00 PM,Utah Jazz,Pepsi Center,True
+12-15-2013,8:00 PM,New Orleans Pelicans,Pepsi Center,True
+12-17-2013,9:00 PM,Oklahoma City Thunder,Pepsi Center,True
+12-20-2013,9:00 PM,Phoenix Suns,Pepsi Center,True
+12-21-2013,10:30 PM,Los Angeles Clippers,Staples Center,False
+12-23-2013,9:00 PM,Golden State Warriors,Pepsi Center,True
+12-27-2013,8:00 PM,New Orleans Pelicans,New Orleans Arena,False
+12-28-2013,8:00 PM,Memphis Grizzlies,FedExForum,False
+12-30-2013,9:00 PM,Miami Heat,Pepsi Center,True
+1-1-2014,9:00 PM,Philadelphia 76ers,Pepsi Center,True
+1-3-2014,9:00 PM,Memphis Grizzlies,Pepsi Center,True
+1-5-2014,9:30 PM,Los Angeles Lakers,Staples Center,False
+1-7-2014,9:00 PM,Boston Celtics,Pepsi Center,True
+1-9-2014,10:30 PM,Oklahoma City Thunder,Pepsi Center,True
+1-11-2014,9:00 PM,Orlando Magic,Pepsi Center,True
+1-13-2014,9:00 PM,Utah Jazz,EnergySolutions Arena,False
+1-15-2014,10:30 PM,Golden State Warriors,Oracle Arena,False
+1-17-2014,9:00 PM,Cleveland Cavaliers,Pepsi Center,True
+1-19-2014,8:00 PM,Phoenix Suns,US Airways Center,False
+1-23-2014,10:30 PM,Portland Trail Blazers,Rose Garden,False
+1-25-2014,9:00 PM,Indiana Pacers,Pepsi Center,True
+1-26-2014,9:00 PM,Sacramento Kings,Sleep Train Arena,False
+1-29-2014,9:00 PM,Charlotte Bobcats,Pepsi Center,True
+1-31-2014,9:00 PM,Toronto Raptors,Pepsi Center,True
+2-3-2014,9:00 PM,Los Angeles Clippers,Pepsi Center,True
+2-5-2014,9:00 PM,Milwaukee Bucks,Pepsi Center,True
+2-7-2014,7:30 PM,New York Knicks,Madison Square Garden,False
+2-8-2014,7:30 PM,Detroit Pistons,The Palace of Auburn Hills,False
+2-10-2014,7:00 PM,Indiana Pacers,Bankers Life Fieldhouse,False
+2-12-2014,8:00 PM,Minnesota Timberwolves,Target Center,False
+2-18-2014,9:00 PM,Phoenix Suns,Pepsi Center,True
+2-20-2014,8:00 PM,Milwaukee Bucks,BMO Harris Bradley Center,False
+2-21-2014,8:00 PM,Chicago Bulls,United Center,False
+2-23-2014,8:00 PM,Sacramento Kings,Pepsi Center,True
+2-25-2014,9:00 PM,Portland Trail Blazers,Pepsi Center,True
+2-27-2014,10:30 PM,Brooklyn Nets,Pepsi Center,True
+3-1-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+3-3-2014,9:00 PM,Minnesota Timberwolves,Pepsi Center,True
+3-5-2014,9:00 PM,Dallas Mavericks,Pepsi Center,True
+3-7-2014,9:00 PM,Los Angeles Lakers,Pepsi Center,True
+3-9-2014,6:00 PM,New Orleans Pelicans,New Orleans Arena,False
+3-10-2014,7:00 PM,Charlotte Bobcats,Time Warner Cable Arena,False
+3-12-2014,7:00 PM,Orlando Magic,Amway Center,False
+3-14-2014,7:30 PM,Miami Heat,AmericanAirlines Arena,False
+3-15-2014,7:30 PM,Atlanta Hawks,Philips Arena,False
+3-17-2014,10:30 PM,Los Angeles Clippers,Pepsi Center,True
+3-19-2014,9:00 PM,Detroit Pistons,Pepsi Center,True
+3-21-2014,8:30 PM,Dallas Mavericks,American Airlines Center,False
+3-23-2014,5:00 PM,Washington Wizards,Pepsi Center,True
+3-24-2014,8:00 PM,Oklahoma City Thunder,Chesapeake Energy Arena,False
+3-26-2014,8:30 PM,San-Antonio Spurs,AT&T Center,False
+3-28-2014,9:00 PM,San-Antonio Spurs,Pepsi Center,True
+3-31-2014,9:00 PM,Memphis Grizzlies,Pepsi Center,True
+4-2-2014,9:00 PM,New Orleans Pelicans,Pepsi Center,True
+4-4-2014,7:00 PM,Memphis Grizzlies,FedExForum,False
+4-6-2014,7:00 PM,Houston Rockets,Toyota Center,False
+4-9-2014,9:00 PM,Houston Rockets,Pepsi Center,True
+4-10-2014,10:30 PM,Golden State Warriors,Oracle Arena,False
+4-12-2014,9:00 PM,Utah Jazz,Pepsi Center,True
+4-15-2014,10:30 PM,Los Angeles Clippers,Staples Center,False
+4-16-2014,10:30 PM,Golden State Warriors,Pepsi Center,True
