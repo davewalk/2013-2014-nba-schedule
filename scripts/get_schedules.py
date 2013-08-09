@@ -1,8 +1,7 @@
-import csv, requests, sys, json
+import requests, json
 from bs4 import BeautifulSoup
 import time
 import datetime
-import teams
 
 teams_file = open('../data/json/teams.json').read()
 teams_json = json.loads(teams_file)
@@ -46,7 +45,6 @@ if __name__ == '__main__':
             rows = schedule.find_all('tr')
             for row in rows:
                 if row['class'][0] == 'oddrow' or row['class'][0] == 'evenrow':
-                    # print row
                     elements = row.find_all('td')
                     full_date = elements[0].contents[0]
                     day_of_week = full_date.split(',')[0]                   
