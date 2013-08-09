@@ -1,0 +1,2990 @@
+{
+  "schedule": [
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "mem", 
+        "address": "191 Beale St., Memphis, TN 38103", 
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "memphis-grizzlies", 
+        "lat": 35.136686, 
+        "location": "Memphis", 
+        "lon": -90.051885, 
+        "nickname": "Grizzlies"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 30, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "10-30-2013", 
+        "fullDateTime": "2013-10-30T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 10, 
+        "monthAbbr": "Oct", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "lal", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-lakers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Lakers"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 1, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "11-1-2013", 
+        "fullDateTime": "2013-11-01T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "lat": 34.043125, 
+        "lon": -118.267118
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "por", 
+        "address": "One Center Court, Portland, OR 97227", 
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "portland-trail-blazers", 
+        "lat": 45.5319834, 
+        "location": "Portland", 
+        "lon": -122.6678056, 
+        "nickname": "Trail Blazers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 2, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "11-2-2013", 
+        "fullDateTime": "2013-11-02T22:00:00+04:00", 
+        "hour": 22, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "10:00 PM"
+      }, 
+      "where": {
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "lat": 45.5319834, 
+        "lon": -122.6678056
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "den", 
+        "address": "1000 Chopper Circle, Denver, CO 80204", 
+        "arena": "Pepsi Center", 
+        "city": "Denver", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "denver-nuggets", 
+        "lat": 39.7483118, 
+        "location": "Denver", 
+        "lon": -105.0077534, 
+        "nickname": "Nuggets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 5, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "11-5-2013", 
+        "fullDateTime": "2013-11-05T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "Pepsi Center", 
+        "city": "Denver", 
+        "lat": 39.7483118, 
+        "lon": -105.0077534
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "phx", 
+        "address": "201 E. Jefferson St., Phoenix, AZ 85004", 
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "phoenix-suns", 
+        "lat": 33.4459, 
+        "location": "Phoenix", 
+        "lon": -112.071211, 
+        "nickname": "Suns"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 6, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "11-6-2013", 
+        "fullDateTime": "2013-11-06T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "gs", 
+        "address": "7000 Coliseum Way, Oakland, CA 94621", 
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "golden-state-warriors", 
+        "lat": 37.7515541, 
+        "location": "Golden State", 
+        "lon": -122.2015715, 
+        "nickname": "Warriors"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 8, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "11-8-2013", 
+        "fullDateTime": "2013-11-08T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "ny", 
+        "address": "Four Pennsylvania Plaza, New York, NY 10001", 
+        "arena": "Madison Square Garden", 
+        "city": "New York City", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "new-york-knicks", 
+        "lat": 40.7508707, 
+        "location": "New York", 
+        "lon": -73.99426609999999, 
+        "nickname": "Knicks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 10, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "11-10-2013", 
+        "fullDateTime": "2013-11-10T12:00:00+04:00", 
+        "hour": 12, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "12:00 PM"
+      }, 
+      "where": {
+        "arena": "Madison Square Garden", 
+        "city": "New York City", 
+        "lat": 40.7508707, 
+        "lon": -73.99426609999999
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "phi", 
+        "address": "3601 S. Broad St., Philadelphia, PA 19148", 
+        "arena": "Wells Fargo Center", 
+        "city": "Philadelphia", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "philadelphia-76ers", 
+        "lat": 39.9044734, 
+        "location": "Philadelphia", 
+        "lon": -75.1712574, 
+        "nickname": "76ers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 11, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "11-11-2013", 
+        "fullDateTime": "2013-11-11T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Wells Fargo Center", 
+        "city": "Philadelphia", 
+        "lat": 39.9044734, 
+        "lon": -75.1712574
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "wsh", 
+        "address": "601 F St. N.W., Washington, D.C. 20004", 
+        "arena": "Verizon Center", 
+        "city": "Washington D.C.", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "washington-wizards", 
+        "lat": 38.8975827, 
+        "location": "Washington", 
+        "lon": -77.0210553, 
+        "nickname": "Wizards"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 13, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "11-13-2013", 
+        "fullDateTime": "2013-11-13T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "utah", 
+        "address": "301 W. South Temple St., Salt Lake City, UT 84101", 
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "utah-jazz", 
+        "lat": 40.768268, 
+        "location": "Utah", 
+        "lon": -111.901087, 
+        "nickname": "Jazz"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 15, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "11-15-2013", 
+        "fullDateTime": "2013-11-15T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "lat": 40.768268, 
+        "lon": -111.901087
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "bos", 
+        "address": "100 Legends Way, Boston, MA 02114", 
+        "arena": "TD Garden", 
+        "city": "Boston", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "boston-celtics", 
+        "lat": 42.36617589999999, 
+        "location": "Boston", 
+        "lon": -71.0602624, 
+        "nickname": "Celtics"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 20, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "11-20-2013", 
+        "fullDateTime": "2013-11-20T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "mem", 
+        "address": "191 Beale St., Memphis, TN 38103", 
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "memphis-grizzlies", 
+        "lat": 35.136686, 
+        "location": "Memphis", 
+        "lon": -90.051885, 
+        "nickname": "Grizzlies"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 22, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "11-22-2013", 
+        "fullDateTime": "2013-11-22T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "lat": 35.136686, 
+        "lon": -90.051885
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "cle", 
+        "address": "One Center Court, Cleveland, OH 44115", 
+        "arena": "Quicken Loans Arena", 
+        "city": "Cleveland", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "cleveland-cavaliers", 
+        "lat": 41.4967035, 
+        "location": "Cleveland", 
+        "lon": -81.6894825, 
+        "nickname": "Cavaliers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 23, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "11-23-2013", 
+        "fullDateTime": "2013-11-23T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "no", 
+        "address": "1501 Girod St., New Orleans, LA 70113", 
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "new-orleans-pelicans", 
+        "lat": 29.9485576, 
+        "location": "New Orleans", 
+        "lon": -90.07661159999999, 
+        "nickname": "Pelicans"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 25, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "11-25-2013", 
+        "fullDateTime": "2013-11-25T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "okc", 
+        "address": "100 W. Reno Ave., Oklahoma City, OK 73102", 
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "oklahoma-city-thunder", 
+        "lat": 35.463391, 
+        "location": "Oklahoma City", 
+        "lon": -97.514594, 
+        "nickname": "Thunder"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 27, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "11-27-2013", 
+        "fullDateTime": "2013-11-27T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "lat": 35.463391, 
+        "lon": -97.514594
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "orl", 
+        "address": "400 W. Church St., Orlando, FL 32801", 
+        "arena": "Amway Center", 
+        "city": "Orlando", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "orlando_magic", 
+        "lat": 28.539832, 
+        "location": "Orlando", 
+        "lon": -81.3840452, 
+        "nickname": "Magic"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 29, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "11-29-2013", 
+        "fullDateTime": "2013-11-29T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Amway Center", 
+        "city": "Orlando", 
+        "lat": 28.539832, 
+        "lon": -81.3840452
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "hou", 
+        "address": "1510 Polk St., Houston, TX 77002", 
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "houston-rockets", 
+        "lat": 29.7513984, 
+        "location": "Houston", 
+        "lon": -95.3621397, 
+        "nickname": "Rockets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 30, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "11-30-2013", 
+        "fullDateTime": "2013-11-30T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 11, 
+        "monthAbbr": "Nov", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "atl", 
+        "address": "One Philips Drive, Atlanta, GA 30303", 
+        "arena": "Philips Arena", 
+        "city": "Atlanta", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "atlanta-hawks", 
+        "lat": 33.7570952, 
+        "location": "Atlanta", 
+        "lon": -84.3971653, 
+        "nickname": "Hawks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 2, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "12-2-2013", 
+        "fullDateTime": "2013-12-02T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "min", 
+        "address": "600 First Ave. North, Minneapolis, MN 55403", 
+        "arena": "Target Center", 
+        "city": "Minneapolis", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "minnesota-timberwolves", 
+        "lat": 44.979548, 
+        "location": "Minnesota", 
+        "lon": -93.27615899999999, 
+        "nickname": "Timberwolves"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 4, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "12-4-2013", 
+        "fullDateTime": "2013-12-04T21:30:00+04:00", 
+        "hour": 21, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "9:30 PM"
+      }, 
+      "where": {
+        "arena": "Target Center", 
+        "city": "Minneapolis", 
+        "lat": 44.979548, 
+        "lon": -93.27615899999999
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "ind", 
+        "address": "125 S. Pennsylvania St., Indianapolis, IN 46204", 
+        "arena": "Bankers Life Fieldhouse", 
+        "city": "Indianapolis", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "indiana-pacers", 
+        "lat": 39.764064, 
+        "location": "Indiana", 
+        "lon": -86.155507, 
+        "nickname": "Pacers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 7, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "12-7-2013", 
+        "fullDateTime": "2013-12-07T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "tor", 
+        "address": "40 Bay St., Toronto, ON M5J 2X2", 
+        "arena": "Air Canada Centre", 
+        "city": "Toronto", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "toronto-raptors", 
+        "lat": 43.644067, 
+        "location": "Toronto", 
+        "lon": -79.3784331, 
+        "nickname": "Raptors"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 10, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "12-10-2013", 
+        "fullDateTime": "2013-12-10T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Air Canada Centre", 
+        "city": "Toronto", 
+        "lat": 43.644067, 
+        "lon": -79.3784331
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "mil", 
+        "address": "1001 N. Fourth St., Milwaukee, WI 53203", 
+        "arena": "BMO Harris Bradley Center", 
+        "city": "Milwaukee", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "milwaukee-bucks", 
+        "lat": 43.0430094, 
+        "location": "Milwaukee", 
+        "lon": -87.9165562, 
+        "nickname": "Bucks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 11, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "12-11-2013", 
+        "fullDateTime": "2013-12-11T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "BMO Harris Bradley Center", 
+        "city": "Milwaukee", 
+        "lat": 43.0430094, 
+        "lon": -87.9165562
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "min", 
+        "address": "600 First Ave. North, Minneapolis, MN 55403", 
+        "arena": "Target Center", 
+        "city": "Minneapolis", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "minnesota-timberwolves", 
+        "lat": 44.979548, 
+        "location": "Minnesota", 
+        "lon": -93.27615899999999, 
+        "nickname": "Timberwolves"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 13, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "12-13-2013", 
+        "fullDateTime": "2013-12-13T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "utah", 
+        "address": "301 W. South Temple St., Salt Lake City, UT 84101", 
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "utah-jazz", 
+        "lat": 40.768268, 
+        "location": "Utah", 
+        "lon": -111.901087, 
+        "nickname": "Jazz"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 14, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "12-14-2013", 
+        "fullDateTime": "2013-12-14T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "lat": 40.768268, 
+        "lon": -111.901087
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "lac", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-clippers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Clippers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 16, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "12-16-2013", 
+        "fullDateTime": "2013-12-16T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "lat": 34.043125, 
+        "lon": -118.267118
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "phx", 
+        "address": "201 E. Jefferson St., Phoenix, AZ 85004", 
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "phoenix-suns", 
+        "lat": 33.4459, 
+        "location": "Phoenix", 
+        "lon": -112.071211, 
+        "nickname": "Suns"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 18, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "12-18-2013", 
+        "fullDateTime": "2013-12-18T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "lat": 33.4459, 
+        "lon": -112.071211
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "gs", 
+        "address": "7000 Coliseum Way, Oakland, CA 94621", 
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "golden-state-warriors", 
+        "lat": 37.7515541, 
+        "location": "Golden State", 
+        "lon": -122.2015715, 
+        "nickname": "Warriors"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "TNT"
+      }, 
+      "when": {
+        "day": 19, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "12-19-2013", 
+        "fullDateTime": "2013-12-19T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "lat": 37.7515541, 
+        "lon": -122.2015715
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "okc", 
+        "address": "100 W. Reno Ave., Oklahoma City, OK 73102", 
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "oklahoma-city-thunder", 
+        "lat": 35.463391, 
+        "location": "Oklahoma City", 
+        "lon": -97.514594, 
+        "nickname": "Thunder"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 21, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "12-21-2013", 
+        "fullDateTime": "2013-12-21T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "tor", 
+        "address": "40 Bay St., Toronto, ON M5J 2X2", 
+        "arena": "Air Canada Centre", 
+        "city": "Toronto", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "toronto-raptors", 
+        "lat": 43.644067, 
+        "location": "Toronto", 
+        "lon": -79.3784331, 
+        "nickname": "Raptors"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 23, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "12-23-2013", 
+        "fullDateTime": "2013-12-23T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "hou", 
+        "address": "1510 Polk St., Houston, TX 77002", 
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "houston-rockets", 
+        "lat": 29.7513984, 
+        "location": "Houston", 
+        "lon": -95.3621397, 
+        "nickname": "Rockets"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 25, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "12-25-2013", 
+        "fullDateTime": "2013-12-25T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "dal", 
+        "address": "2500 Victory Ave., Dallas, TX 75219", 
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "dallas-mavericks", 
+        "lat": 32.7899544, 
+        "location": "Dallas", 
+        "lon": -96.8111569, 
+        "nickname": "Mavericks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 26, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "12-26-2013", 
+        "fullDateTime": "2013-12-26T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "lat": 32.7899544, 
+        "lon": -96.8111569
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "sac", 
+        "address": "One Sports Parkway, Sacramento, CA 95834", 
+        "arena": "Sleep Train Arena", 
+        "city": "Sacramento", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "sacramento-kings", 
+        "lat": 38.648005, 
+        "location": "Sacramento", 
+        "lon": -121.517077, 
+        "nickname": "Kings"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 29, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "12-29-2013", 
+        "fullDateTime": "2013-12-29T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "bkn", 
+        "address": "620 Atlantic Avenue, Brooklyn, NY 112", 
+        "arena": "Barclays Center", 
+        "city": "Brooklyn", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "brooklyn-nets", 
+        "lat": 40.6834453, 
+        "location": "Brooklyn", 
+        "lon": -73.9760482, 
+        "nickname": "Nets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 31, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "12-31-2013", 
+        "fullDateTime": "2013-12-31T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 12, 
+        "monthAbbr": "Dec", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "ny", 
+        "address": "Four Pennsylvania Plaza, New York, NY 10001", 
+        "arena": "Madison Square Garden", 
+        "city": "New York City", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "new-york-knicks", 
+        "lat": 40.7508707, 
+        "location": "New York", 
+        "lon": -73.99426609999999, 
+        "nickname": "Knicks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 2, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "1-2-2014", 
+        "fullDateTime": "2014-01-02T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "lac", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-clippers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Clippers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 4, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "1-4-2014", 
+        "fullDateTime": "2014-01-04T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "mem", 
+        "address": "191 Beale St., Memphis, TN 38103", 
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "memphis-grizzlies", 
+        "lat": 35.136686, 
+        "location": "Memphis", 
+        "lon": -90.051885, 
+        "nickname": "Grizzlies"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 7, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "1-7-2014", 
+        "fullDateTime": "2014-01-07T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "lat": 35.136686, 
+        "lon": -90.051885
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "dal", 
+        "address": "2500 Victory Ave., Dallas, TX 75219", 
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "dallas-mavericks", 
+        "lat": 32.7899544, 
+        "location": "Dallas", 
+        "lon": -96.8111569, 
+        "nickname": "Mavericks"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 8, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "1-8-2014", 
+        "fullDateTime": "2014-01-08T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "min", 
+        "address": "600 First Ave. North, Minneapolis, MN 55403", 
+        "arena": "Target Center", 
+        "city": "Minneapolis", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "minnesota-timberwolves", 
+        "lat": 44.979548, 
+        "location": "Minnesota", 
+        "lon": -93.27615899999999, 
+        "nickname": "Timberwolves"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 12, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "1-12-2014", 
+        "fullDateTime": "2014-01-12T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "no", 
+        "address": "1501 Girod St., New Orleans, LA 70113", 
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "new-orleans-pelicans", 
+        "lat": 29.9485576, 
+        "location": "New Orleans", 
+        "lon": -90.07661159999999, 
+        "nickname": "Pelicans"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 13, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "1-13-2014", 
+        "fullDateTime": "2014-01-13T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "lat": 29.9485576, 
+        "lon": -90.07661159999999
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "utah", 
+        "address": "301 W. South Temple St., Salt Lake City, UT 84101", 
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "utah-jazz", 
+        "lat": 40.768268, 
+        "location": "Utah", 
+        "lon": -111.901087, 
+        "nickname": "Jazz"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 15, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "1-15-2014", 
+        "fullDateTime": "2014-01-15T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "por", 
+        "address": "One Center Court, Portland, OR 97227", 
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "portland-trail-blazers", 
+        "lat": 45.5319834, 
+        "location": "Portland", 
+        "lon": -122.6678056, 
+        "nickname": "Trail Blazers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 17, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "1-17-2014", 
+        "fullDateTime": "2014-01-17T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "mil", 
+        "address": "1001 N. Fourth St., Milwaukee, WI 53203", 
+        "arena": "BMO Harris Bradley Center", 
+        "city": "Milwaukee", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "milwaukee-bucks", 
+        "lat": 43.0430094, 
+        "location": "Milwaukee", 
+        "lon": -87.9165562, 
+        "nickname": "Bucks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 19, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "1-19-2014", 
+        "fullDateTime": "2014-01-19T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "okc", 
+        "address": "100 W. Reno Ave., Oklahoma City, OK 73102", 
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "oklahoma-city-thunder", 
+        "lat": 35.463391, 
+        "location": "Oklahoma City", 
+        "lon": -97.514594, 
+        "nickname": "Thunder"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 22, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "1-22-2014", 
+        "fullDateTime": "2014-01-22T21:30:00+04:00", 
+        "hour": 21, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "9:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "atl", 
+        "address": "One Philips Drive, Atlanta, GA 30303", 
+        "arena": "Philips Arena", 
+        "city": "Atlanta", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "atlanta-hawks", 
+        "lat": 33.7570952, 
+        "location": "Atlanta", 
+        "lon": -84.3971653, 
+        "nickname": "Hawks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 24, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "1-24-2014", 
+        "fullDateTime": "2014-01-24T19:30:00+04:00", 
+        "hour": 19, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "7:30 PM"
+      }, 
+      "where": {
+        "arena": "Philips Arena", 
+        "city": "Atlanta", 
+        "lat": 33.7570952, 
+        "lon": -84.3971653
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "mia", 
+        "address": "601 Biscayne Blvd., Miami, FL 33132", 
+        "arena": "AmericanAirlines Arena", 
+        "city": "Miami", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "miami-heat", 
+        "lat": 25.781232, 
+        "location": "Miami", 
+        "lon": -80.187805, 
+        "nickname": "Heat"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 26, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "1-26-2014", 
+        "fullDateTime": "2014-01-26T13:00:00+04:00", 
+        "hour": 13, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "1:00 PM"
+      }, 
+      "where": {
+        "arena": "AmericanAirlines Arena", 
+        "city": "Miami", 
+        "lat": 25.781232, 
+        "lon": -80.187805
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "hou", 
+        "address": "1510 Polk St., Houston, TX 77002", 
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "houston-rockets", 
+        "lat": 29.7513984, 
+        "location": "Houston", 
+        "lon": -95.3621397, 
+        "nickname": "Rockets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 28, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "1-28-2014", 
+        "fullDateTime": "2014-01-28T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "lat": 29.7513984, 
+        "lon": -95.3621397
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "chi", 
+        "address": "1901 W. Madison St., Chicago, IL 60612", 
+        "arena": "United Center", 
+        "city": "Chicago", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "chicago-bulls", 
+        "lat": 41.8812526, 
+        "location": "Chicago", 
+        "lon": -87.6741557, 
+        "nickname": "Bulls"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 29, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "1-29-2014", 
+        "fullDateTime": "2014-01-29T21:30:00+04:00", 
+        "hour": 21, 
+        "minute": 30, 
+        "month": 1, 
+        "monthAbbr": "Jan", 
+        "time": "9:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "sac", 
+        "address": "One Sports Parkway, Sacramento, CA 95834", 
+        "arena": "Sleep Train Arena", 
+        "city": "Sacramento", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "sacramento-kings", 
+        "lat": 38.648005, 
+        "location": "Sacramento", 
+        "lon": -121.517077, 
+        "nickname": "Kings"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 1, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "2-1-2014", 
+        "fullDateTime": "2014-02-01T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "no", 
+        "address": "1501 Girod St., New Orleans, LA 70113", 
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "new-orleans-pelicans", 
+        "lat": 29.9485576, 
+        "location": "New Orleans", 
+        "lon": -90.07661159999999, 
+        "nickname": "Pelicans"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 3, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "2-3-2014", 
+        "fullDateTime": "2014-02-03T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "lat": 29.9485576, 
+        "lon": -90.07661159999999
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "wsh", 
+        "address": "601 F St. N.W., Washington, D.C. 20004", 
+        "arena": "Verizon Center", 
+        "city": "Washington D.C.", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "washington-wizards", 
+        "lat": 38.8975827, 
+        "location": "Washington", 
+        "lon": -77.0210553, 
+        "nickname": "Wizards"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 5, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "2-5-2014", 
+        "fullDateTime": "2014-02-05T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Verizon Center", 
+        "city": "Washington D.C.", 
+        "lat": 38.8975827, 
+        "lon": -77.0210553
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "bkn", 
+        "address": "620 Atlantic Avenue, Brooklyn, NY 112", 
+        "arena": "Barclays Center", 
+        "city": "Brooklyn", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "brooklyn-nets", 
+        "lat": 40.6834453, 
+        "location": "Brooklyn", 
+        "lon": -73.9760482, 
+        "nickname": "Nets"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "TNT"
+      }, 
+      "when": {
+        "day": 6, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "2-6-2014", 
+        "fullDateTime": "2014-02-06T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "Barclays Center", 
+        "city": "Brooklyn", 
+        "lat": 40.6834453, 
+        "lon": -73.9760482
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "cha", 
+        "address": "330 E. Trade St., Charlotte, NC 28202", 
+        "arena": "Time Warner Cable Arena", 
+        "city": "Charlotte", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "charlotte-bobcats", 
+        "lat": 35.2251392, 
+        "location": "Charlotte", 
+        "lon": -80.8406959, 
+        "nickname": "Bobcats"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 8, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "2-8-2014", 
+        "fullDateTime": "2014-02-08T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Time Warner Cable Arena", 
+        "city": "Charlotte", 
+        "lat": 35.2251392, 
+        "lon": -80.8406959
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "det", 
+        "address": "Six Championship Drive, Auburn Hills, MI 48326", 
+        "arena": "The Palace of Auburn Hills", 
+        "city": "Auburn Hills", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "detroit-pistons", 
+        "lat": 42.69651100000001, 
+        "location": "Detroit", 
+        "lon": -83.2437214, 
+        "nickname": "Pistons"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 10, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "2-10-2014", 
+        "fullDateTime": "2014-02-10T19:30:00+04:00", 
+        "hour": 19, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "7:30 PM"
+      }, 
+      "where": {
+        "arena": "The Palace of Auburn Hills", 
+        "city": "Auburn Hills", 
+        "lat": 42.69651100000001, 
+        "lon": -83.2437214
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "bos", 
+        "address": "100 Legends Way, Boston, MA 02114", 
+        "arena": "TD Garden", 
+        "city": "Boston", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "boston-celtics", 
+        "lat": 42.36617589999999, 
+        "location": "Boston", 
+        "lon": -71.0602624, 
+        "nickname": "Celtics"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 12, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "2-12-2014", 
+        "fullDateTime": "2014-02-12T19:30:00+04:00", 
+        "hour": 19, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "7:30 PM"
+      }, 
+      "where": {
+        "arena": "TD Garden", 
+        "city": "Boston", 
+        "lat": 42.36617589999999, 
+        "lon": -71.0602624
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "lac", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-clippers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Clippers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 18, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "2-18-2014", 
+        "fullDateTime": "2014-02-18T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "lat": 34.043125, 
+        "lon": -118.267118
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "por", 
+        "address": "One Center Court, Portland, OR 97227", 
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "portland-trail-blazers", 
+        "lat": 45.5319834, 
+        "location": "Portland", 
+        "lon": -122.6678056, 
+        "nickname": "Trail Blazers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 19, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "2-19-2014", 
+        "fullDateTime": "2014-02-19T22:00:00+04:00", 
+        "hour": 22, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "10:00 PM"
+      }, 
+      "where": {
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "lat": 45.5319834, 
+        "lon": -122.6678056
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "phx", 
+        "address": "201 E. Jefferson St., Phoenix, AZ 85004", 
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "phoenix-suns", 
+        "lat": 33.4459, 
+        "location": "Phoenix", 
+        "lon": -112.071211, 
+        "nickname": "Suns"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 21, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "2-21-2014", 
+        "fullDateTime": "2014-02-21T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "lat": 33.4459, 
+        "lon": -112.071211
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "det", 
+        "address": "Six Championship Drive, Auburn Hills, MI 48326", 
+        "arena": "The Palace of Auburn Hills", 
+        "city": "Auburn Hills", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "detroit-pistons", 
+        "lat": 42.69651100000001, 
+        "location": "Detroit", 
+        "lon": -83.2437214, 
+        "nickname": "Pistons"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 26, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "2-26-2014", 
+        "fullDateTime": "2014-02-26T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "cha", 
+        "address": "330 E. Trade St., Charlotte, NC 28202", 
+        "arena": "Time Warner Cable Arena", 
+        "city": "Charlotte", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "charlotte-bobcats", 
+        "lat": 35.2251392, 
+        "location": "Charlotte", 
+        "lon": -80.8406959, 
+        "nickname": "Bobcats"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 28, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "2-28-2014", 
+        "fullDateTime": "2014-02-28T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 2, 
+        "monthAbbr": "Feb", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "dal", 
+        "address": "2500 Victory Ave., Dallas, TX 75219", 
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "dallas-mavericks", 
+        "lat": 32.7899544, 
+        "location": "Dallas", 
+        "lon": -96.8111569, 
+        "nickname": "Mavericks"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 2, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "3-2-2014", 
+        "fullDateTime": "2014-03-02T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "cle", 
+        "address": "One Center Court, Cleveland, OH 44115", 
+        "arena": "Quicken Loans Arena", 
+        "city": "Cleveland", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "cleveland-cavaliers", 
+        "lat": 41.4967035, 
+        "location": "Cleveland", 
+        "lon": -81.6894825, 
+        "nickname": "Cavaliers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 4, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "3-4-2014", 
+        "fullDateTime": "2014-03-04T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Quicken Loans Arena", 
+        "city": "Cleveland", 
+        "lat": 41.4967035, 
+        "lon": -81.6894825
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "mia", 
+        "address": "601 Biscayne Blvd., Miami, FL 33132", 
+        "arena": "AmericanAirlines Arena", 
+        "city": "Miami", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "miami-heat", 
+        "lat": 25.781232, 
+        "location": "Miami", 
+        "lon": -80.187805, 
+        "nickname": "Heat"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "TNT"
+      }, 
+      "when": {
+        "day": 6, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "3-6-2014", 
+        "fullDateTime": "2014-03-06T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "orl", 
+        "address": "400 W. Church St., Orlando, FL 32801", 
+        "arena": "Amway Center", 
+        "city": "Orlando", 
+        "conference": "East", 
+        "division": "Southeast", 
+        "full_name": "orlando_magic", 
+        "lat": 28.539832, 
+        "location": "Orlando", 
+        "lon": -81.3840452, 
+        "nickname": "Magic"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 8, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "3-8-2014", 
+        "fullDateTime": "2014-03-08T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "chi", 
+        "address": "1901 W. Madison St., Chicago, IL 60612", 
+        "arena": "United Center", 
+        "city": "Chicago", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "chicago-bulls", 
+        "lat": 41.8812526, 
+        "location": "Chicago", 
+        "lon": -87.6741557, 
+        "nickname": "Bulls"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 11, 
+        "dayOfWeek": "Tue", 
+        "fullDate": "3-11-2014", 
+        "fullDateTime": "2014-03-11T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "United Center", 
+        "city": "Chicago", 
+        "lat": 41.8812526, 
+        "lon": -87.6741557
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "por", 
+        "address": "One Center Court, Portland, OR 97227", 
+        "arena": "Rose Garden", 
+        "city": "Portland", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "portland-trail-blazers", 
+        "lat": 45.5319834, 
+        "location": "Portland", 
+        "lon": -122.6678056, 
+        "nickname": "Trail Blazers"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 12, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "3-12-2014", 
+        "fullDateTime": "2014-03-12T21:30:00+04:00", 
+        "hour": 21, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "9:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "lal", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-lakers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Lakers"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 14, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "3-14-2014", 
+        "fullDateTime": "2014-03-14T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "utah", 
+        "address": "301 W. South Temple St., Salt Lake City, UT 84101", 
+        "arena": "EnergySolutions Arena", 
+        "city": "Salt Lake City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "utah-jazz", 
+        "lat": 40.768268, 
+        "location": "Utah", 
+        "lon": -111.901087, 
+        "nickname": "Jazz"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 16, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "3-16-2014", 
+        "fullDateTime": "2014-03-16T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "lal", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-lakers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Lakers"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "ABC"
+      }, 
+      "when": {
+        "day": 19, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "3-19-2014", 
+        "fullDateTime": "2014-03-19T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "lat": 34.043125, 
+        "lon": -118.267118
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "sac", 
+        "address": "One Sports Parkway, Sacramento, CA 95834", 
+        "arena": "Sleep Train Arena", 
+        "city": "Sacramento", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "sacramento-kings", 
+        "lat": 38.648005, 
+        "location": "Sacramento", 
+        "lon": -121.517077, 
+        "nickname": "Kings"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 21, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "3-21-2014", 
+        "fullDateTime": "2014-03-21T22:00:00+04:00", 
+        "hour": 22, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "10:00 PM"
+      }, 
+      "where": {
+        "arena": "Sleep Train Arena", 
+        "city": "Sacramento", 
+        "lat": 38.648005, 
+        "lon": -121.517077
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "gs", 
+        "address": "7000 Coliseum Way, Oakland, CA 94621", 
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "golden-state-warriors", 
+        "lat": 37.7515541, 
+        "location": "Golden State", 
+        "lon": -122.2015715, 
+        "nickname": "Warriors"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 22, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "3-22-2014", 
+        "fullDateTime": "2014-03-22T22:30:00+04:00", 
+        "hour": 22, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "10:30 PM"
+      }, 
+      "where": {
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "lat": 37.7515541, 
+        "lon": -122.2015715
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "phi", 
+        "address": "3601 S. Broad St., Philadelphia, PA 19148", 
+        "arena": "Wells Fargo Center", 
+        "city": "Philadelphia", 
+        "conference": "East", 
+        "division": "Atlantic", 
+        "full_name": "philadelphia-76ers", 
+        "lat": 39.9044734, 
+        "location": "Philadelphia", 
+        "lon": -75.1712574, 
+        "nickname": "76ers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 24, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "3-24-2014", 
+        "fullDateTime": "2014-03-24T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "den", 
+        "address": "1000 Chopper Circle, Denver, CO 80204", 
+        "arena": "Pepsi Center", 
+        "city": "Denver", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "denver-nuggets", 
+        "lat": 39.7483118, 
+        "location": "Denver", 
+        "lon": -105.0077534, 
+        "nickname": "Nuggets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 26, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "3-26-2014", 
+        "fullDateTime": "2014-03-26T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "den", 
+        "address": "1000 Chopper Circle, Denver, CO 80204", 
+        "arena": "Pepsi Center", 
+        "city": "Denver", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "denver-nuggets", 
+        "lat": 39.7483118, 
+        "location": "Denver", 
+        "lon": -105.0077534, 
+        "nickname": "Nuggets"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 28, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "3-28-2014", 
+        "fullDateTime": "2014-03-28T21:00:00+04:00", 
+        "hour": 21, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "9:00 PM"
+      }, 
+      "where": {
+        "arena": "Pepsi Center", 
+        "city": "Denver", 
+        "lat": 39.7483118, 
+        "lon": -105.0077534
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "no", 
+        "address": "1501 Girod St., New Orleans, LA 70113", 
+        "arena": "New Orleans Arena", 
+        "city": "New Orleans", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "new-orleans-pelicans", 
+        "lat": 29.9485576, 
+        "location": "New Orleans", 
+        "lon": -90.07661159999999, 
+        "nickname": "Pelicans"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 29, 
+        "dayOfWeek": "Sat", 
+        "fullDate": "3-29-2014", 
+        "fullDateTime": "2014-03-29T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "ind", 
+        "address": "125 S. Pennsylvania St., Indianapolis, IN 46204", 
+        "arena": "Bankers Life Fieldhouse", 
+        "city": "Indianapolis", 
+        "conference": "East", 
+        "division": "Central", 
+        "full_name": "indiana-pacers", 
+        "lat": 39.764064, 
+        "location": "Indiana", 
+        "lon": -86.155507, 
+        "nickname": "Pacers"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 31, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "3-31-2014", 
+        "fullDateTime": "2014-03-31T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 3, 
+        "monthAbbr": "Mar", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "Bankers Life Fieldhouse", 
+        "city": "Indianapolis", 
+        "lat": 39.764064, 
+        "lon": -86.155507
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "gs", 
+        "address": "7000 Coliseum Way, Oakland, CA 94621", 
+        "arena": "Oracle Arena", 
+        "city": "Oakland", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "golden-state-warriors", 
+        "lat": 37.7515541, 
+        "location": "Golden State", 
+        "lon": -122.2015715, 
+        "nickname": "Warriors"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 2, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "4-2-2014", 
+        "fullDateTime": "2014-04-02T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "okc", 
+        "address": "100 W. Reno Ave., Oklahoma City, OK 73102", 
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "conference": "West", 
+        "division": "Northwest", 
+        "full_name": "oklahoma-city-thunder", 
+        "lat": 35.463391, 
+        "location": "Oklahoma City", 
+        "lon": -97.514594, 
+        "nickname": "Thunder"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "TNT"
+      }, 
+      "when": {
+        "day": 3, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "4-3-2014", 
+        "fullDateTime": "2014-04-03T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "Chesapeake Energy Arena", 
+        "city": "Oklahoma City", 
+        "lat": 35.463391, 
+        "lon": -97.514594
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "mem", 
+        "address": "191 Beale St., Memphis, TN 38103", 
+        "arena": "FedExForum", 
+        "city": "Memphis", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "memphis-grizzlies", 
+        "lat": 35.136686, 
+        "location": "Memphis", 
+        "lon": -90.051885, 
+        "nickname": "Grizzlies"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 6, 
+        "dayOfWeek": "Sun", 
+        "fullDate": "4-6-2014", 
+        "fullDateTime": "2014-04-06T19:00:00+04:00", 
+        "hour": 19, 
+        "minute": 0, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "7:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "dal", 
+        "address": "2500 Victory Ave., Dallas, TX 75219", 
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "dallas-mavericks", 
+        "lat": 32.7899544, 
+        "location": "Dallas", 
+        "lon": -96.8111569, 
+        "nickname": "Mavericks"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "TNT"
+      }, 
+      "when": {
+        "day": 10, 
+        "dayOfWeek": "Thu", 
+        "fullDate": "4-10-2014", 
+        "fullDateTime": "2014-04-10T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "American Airlines Center", 
+        "city": "Dallas", 
+        "lat": 32.7899544, 
+        "lon": -96.8111569
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "phx", 
+        "address": "201 E. Jefferson St., Phoenix, AZ 85004", 
+        "arena": "US Airways Center", 
+        "city": "Phoenix", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "phoenix-suns", 
+        "lat": 33.4459, 
+        "location": "Phoenix", 
+        "lon": -112.071211, 
+        "nickname": "Suns"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 11, 
+        "dayOfWeek": "Fri", 
+        "fullDate": "4-11-2014", 
+        "fullDateTime": "2014-04-11T20:30:00+04:00", 
+        "hour": 20, 
+        "minute": 30, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:30 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }, 
+    {
+      "isHomeGame": false, 
+      "opponent": {
+        "abbr": "hou", 
+        "address": "1510 Polk St., Houston, TX 77002", 
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "conference": "West", 
+        "division": "Southwest", 
+        "full_name": "houston-rockets", 
+        "lat": 29.7513984, 
+        "location": "Houston", 
+        "lon": -95.3621397, 
+        "nickname": "Rockets"
+      }, 
+      "tv": {
+        "national": true, 
+        "network": "NBATV"
+      }, 
+      "when": {
+        "day": 14, 
+        "dayOfWeek": "Mon", 
+        "fullDate": "4-14-2014", 
+        "fullDateTime": "2014-04-14T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "Toyota Center", 
+        "city": "Houston", 
+        "lat": 29.7513984, 
+        "lon": -95.3621397
+      }
+    }, 
+    {
+      "isHomeGame": true, 
+      "opponent": {
+        "abbr": "lal", 
+        "address": "1111 S. Figueroa St., Los Angeles, CA 90015", 
+        "arena": "Staples Center", 
+        "city": "Los Angeles", 
+        "conference": "West", 
+        "division": "Pacific", 
+        "full_name": "los-angeles-lakers", 
+        "lat": 34.043125, 
+        "location": "Los Angeles", 
+        "lon": -118.267118, 
+        "nickname": "Lakers"
+      }, 
+      "tv": {
+        "national": false
+      }, 
+      "when": {
+        "day": 16, 
+        "dayOfWeek": "Wed", 
+        "fullDate": "4-16-2014", 
+        "fullDateTime": "2014-04-16T20:00:00+04:00", 
+        "hour": 20, 
+        "minute": 0, 
+        "month": 4, 
+        "monthAbbr": "Apr", 
+        "time": "8:00 PM"
+      }, 
+      "where": {
+        "arena": "AT&T Center", 
+        "city": "San Antonio", 
+        "lat": 29.4342371, 
+        "lon": -98.433667
+      }
+    }
+  ], 
+  "team": {
+    "abbr": "sa", 
+    "address": "One AT&T Center Parkway, San Antonio, TX 78219", 
+    "arena": "AT&T Center", 
+    "city": "San Antonio", 
+    "conference": "West", 
+    "division": "Southwest", 
+    "full_name": "san-antonio-spurs", 
+    "lat": 29.4342371, 
+    "location": "San-Antonio", 
+    "lon": -98.433667, 
+    "nickname": "Spurs"
+  }
+}
