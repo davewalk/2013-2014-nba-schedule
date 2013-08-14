@@ -19,7 +19,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 11-30-2013,9:00 PM,Phoenix Suns,US Airways Center,False
 12-2-2013,9:00 PM,Houston Rockets,EnergySolutions Arena,True
 12-4-2013,9:00 PM,Indiana Pacers,EnergySolutions Arena,True
-12-6-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+12-6-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 12-7-2013,9:00 PM,Sacramento Kings,EnergySolutions Arena,True
 12-9-2013,9:00 PM,Portland Trail Blazers,EnergySolutions Arena,True
 12-11-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
@@ -52,7 +52,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 2-11-2014,10:30 PM,Los Angeles Lakers,Staples Center,False
 2-12-2014,9:00 PM,Philadelphia 76ers,EnergySolutions Arena,True
 2-19-2014,9:00 PM,Brooklyn Nets,EnergySolutions Arena,True
-2-21-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+2-21-2014,10:00 PM,Portland Trail Blazers,Moda Center,False
 2-22-2014,9:00 PM,Minnesota Timberwolves,EnergySolutions Arena,True
 2-24-2014,9:00 PM,Boston Celtics,EnergySolutions Arena,True
 2-26-2014,9:00 PM,Phoenix Suns,EnergySolutions Arena,True

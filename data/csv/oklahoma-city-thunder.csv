@@ -15,7 +15,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 11-29-2013,8:00 PM,Golden State Warriors,Chesapeake Energy Arena,True
 12-1-2013,7:00 PM,Minnesota Timberwolves,Chesapeake Energy Arena,True
 12-3-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
-12-4-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+12-4-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 12-6-2013,8:00 PM,New Orleans Pelicans,New Orleans Arena,False
 12-8-2013,7:00 PM,Indiana Pacers,Chesapeake Energy Arena,True
 12-10-2013,7:30 PM,Atlanta Hawks,Philips Arena,False
@@ -52,7 +52,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 2-5-2014,8:00 PM,Minnesota Timberwolves,Chesapeake Energy Arena,True
 2-7-2014,7:00 PM,Orlando Magic,Amway Center,False
 2-9-2014,1:00 PM,New York Knicks,Chesapeake Energy Arena,True
-2-11-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+2-11-2014,10:00 PM,Portland Trail Blazers,Moda Center,False
 2-13-2014,10:30 PM,Los Angeles Lakers,Staples Center,False
 2-20-2014,8:00 PM,Miami Heat,Chesapeake Energy Arena,True
 2-23-2014,1:00 PM,Los Angeles Clippers,Chesapeake Energy Arena,True

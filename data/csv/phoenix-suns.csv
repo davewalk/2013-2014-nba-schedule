@@ -6,7 +6,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 11-6-2013,8:30 PM,San-Antonio Spurs,AT&T Center,False
 11-8-2013,9:00 PM,Denver Nuggets,US Airways Center,True
 11-10-2013,8:00 PM,New Orleans Pelicans,US Airways Center,True
-11-13-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+11-13-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 11-15-2013,9:00 PM,Brooklyn Nets,US Airways Center,True
 11-19-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
 11-20-2013,9:00 PM,Sacramento Kings,US Airways Center,True
@@ -74,7 +74,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 3-28-2014,10:00 PM,New York Knicks,US Airways Center,True
 3-30-2014,9:30 PM,Los Angeles Lakers,Staples Center,False
 4-2-2014,10:00 PM,Los Angeles Clippers,US Airways Center,True
-4-4-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+4-4-2014,10:00 PM,Portland Trail Blazers,Moda Center,False
 4-6-2014,9:00 PM,Oklahoma City Thunder,US Airways Center,True
 4-9-2014,8:00 PM,New Orleans Pelicans,New Orleans Arena,False
 4-11-2014,8:30 PM,San-Antonio Spurs,AT&T Center,False

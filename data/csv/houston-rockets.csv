@@ -3,7 +3,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 11-1-2013,8:00 PM,Dallas Mavericks,Toyota Center,True
 11-2-2013,9:00 PM,Utah Jazz,EnergySolutions Arena,False
 11-4-2013,10:30 PM,Los Angeles Clippers,Staples Center,False
-11-5-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+11-5-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 11-7-2013,9:30 PM,Los Angeles Lakers,Toyota Center,True
 11-9-2013,8:00 PM,Los Angeles Clippers,Toyota Center,True
 11-11-2013,8:00 PM,Toronto Raptors,Toyota Center,True
@@ -21,7 +21,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 12-4-2013,8:00 PM,Phoenix Suns,Toyota Center,True
 12-6-2013,8:00 PM,Golden State Warriors,Toyota Center,True
 12-8-2013,7:00 PM,Orlando Magic,Toyota Center,True
-12-12-2013,10:30 PM,Portland Trail Blazers,Rose Garden,False
+12-12-2013,10:30 PM,Portland Trail Blazers,Moda Center,False
 12-13-2013,10:30 PM,Golden State Warriors,Oracle Arena,False
 12-15-2013,6:00 PM,Sacramento Kings,Sleep Train Arena,False
 12-18-2013,9:30 PM,Chicago Bulls,Toyota Center,True

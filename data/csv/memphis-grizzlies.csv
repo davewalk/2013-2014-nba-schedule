@@ -41,7 +41,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 1-20-2014,5:00 PM,New Orleans Pelicans,FedExForum,True
 1-24-2014,8:00 PM,Houston Rockets,Toyota Center,False
 1-25-2014,8:00 PM,Houston Rockets,FedExForum,True
-1-28-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+1-28-2014,10:00 PM,Portland Trail Blazers,Moda Center,False
 1-29-2014,10:00 PM,Sacramento Kings,Sleep Train Arena,False
 1-31-2014,8:00 PM,Minnesota Timberwolves,Target Center,False
 2-1-2014,8:00 PM,Milwaukee Bucks,FedExForum,True
@@ -71,7 +71,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 3-24-2014,8:00 PM,Minnesota Timberwolves,FedExForum,True
 3-26-2014,10:30 PM,Utah Jazz,EnergySolutions Arena,False
 3-28-2014,10:30 PM,Golden State Warriors,Oracle Arena,False
-3-30-2014,9:00 PM,Portland Trail Blazers,Rose Garden,False
+3-30-2014,9:00 PM,Portland Trail Blazers,Moda Center,False
 3-31-2014,9:00 PM,Denver Nuggets,Pepsi Center,False
 4-2-2014,8:00 PM,Minnesota Timberwolves,Target Center,False
 4-4-2014,7:00 PM,Denver Nuggets,FedExForum,True

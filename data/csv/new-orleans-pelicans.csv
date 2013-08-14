@@ -23,7 +23,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 12-15-2013,8:00 PM,Denver Nuggets,Pepsi Center,False
 12-17-2013,10:30 PM,Golden State Warriors,Oracle Arena,False
 12-18-2013,10:30 PM,Los Angeles Clippers,Staples Center,False
-12-21-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+12-21-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 12-23-2013,10:00 PM,Sacramento Kings,Sleep Train Arena,False
 12-27-2013,8:00 PM,Denver Nuggets,New Orleans Arena,True
 12-28-2013,8:00 PM,Houston Rockets,Toyota Center,False
@@ -75,7 +75,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 3-31-2014,8:00 PM,Sacramento Kings,New Orleans Arena,True
 4-2-2014,9:00 PM,Denver Nuggets,Pepsi Center,False
 4-4-2014,9:00 PM,Utah Jazz,EnergySolutions Arena,False
-4-6-2014,9:00 PM,Portland Trail Blazers,Rose Garden,False
+4-6-2014,9:00 PM,Portland Trail Blazers,Moda Center,False
 4-9-2014,8:00 PM,Phoenix Suns,New Orleans Arena,True
 4-11-2014,8:00 PM,Oklahoma City Thunder,Chesapeake Energy Arena,False
 4-12-2014,8:00 PM,Houston Rockets,Toyota Center,False

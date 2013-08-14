@@ -1522,7 +1522,7 @@
       "opponent": {
         "abbr": "por", 
         "address": "One Center Court, Portland, OR 97227", 
-        "arena": "Rose Garden", 
+        "arena": "Moda Center", 
         "city": "Portland", 
         "conference": "West", 
         "division": "Northwest", 
@@ -1547,7 +1547,7 @@
         "time": "10:00 PM"
       }, 
       "where": {
-        "arena": "Rose Garden", 
+        "arena": "Moda Center", 
         "city": "Portland", 
         "lat": 45.5319834, 
         "lon": -122.6678056
@@ -2244,7 +2244,7 @@
       "opponent": {
         "abbr": "por", 
         "address": "One Center Court, Portland, OR 97227", 
-        "arena": "Rose Garden", 
+        "arena": "Moda Center", 
         "city": "Portland", 
         "conference": "West", 
         "division": "Northwest", 
@@ -2605,7 +2605,7 @@
       "opponent": {
         "abbr": "por", 
         "address": "One Center Court, Portland, OR 97227", 
-        "arena": "Rose Garden", 
+        "arena": "Moda Center", 
         "city": "Portland", 
         "conference": "West", 
         "division": "Northwest", 
@@ -2631,7 +2631,7 @@
         "time": "9:00 PM"
       }, 
       "where": {
-        "arena": "Rose Garden", 
+        "arena": "Moda Center", 
         "city": "Portland", 
         "lat": 45.5319834, 
         "lon": -122.6678056

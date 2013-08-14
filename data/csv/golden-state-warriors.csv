@@ -66,7 +66,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 3-11-2014,10:30 PM,Dallas Mavericks,Oracle Arena,True
 3-12-2014,10:30 PM,Los Angeles Clippers,Staples Center,False
 3-14-2014,10:30 PM,Cleveland Cavaliers,Oracle Arena,True
-3-16-2014,9:00 PM,Portland Trail Blazers,Rose Garden,False
+3-16-2014,9:00 PM,Portland Trail Blazers,Moda Center,False
 3-18-2014,10:30 PM,Orlando Magic,Oracle Arena,True
 3-20-2014,10:30 PM,Milwaukee Bucks,Oracle Arena,True
 3-22-2014,10:30 PM,San-Antonio Spurs,Oracle Arena,True
@@ -78,6 +78,6 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 4-6-2014,9:00 PM,Utah Jazz,Oracle Arena,True
 4-10-2014,10:30 PM,Denver Nuggets,Oracle Arena,True
 4-11-2014,10:30 PM,Los Angeles Lakers,Staples Center,False
-4-13-2014,9:00 PM,Portland Trail Blazers,Rose Garden,False
+4-13-2014,9:00 PM,Portland Trail Blazers,Moda Center,False
 4-14-2014,10:30 PM,Minnesota Timberwolves,Oracle Arena,True
 4-16-2014,10:30 PM,Denver Nuggets,Pepsi Center,False

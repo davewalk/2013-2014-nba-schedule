@@ -3,7 +3,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 11-1-2013,10:00 PM,Los Angeles Clippers,Sleep Train Arena,True
 11-2-2013,10:30 PM,Golden State Warriors,Oracle Arena,False
 11-5-2013,10:00 PM,Atlanta Hawks,Sleep Train Arena,True
-11-8-2013,10:00 PM,Portland Trail Blazers,Rose Garden,False
+11-8-2013,10:00 PM,Portland Trail Blazers,Moda Center,False
 11-9-2013,10:00 PM,Portland Trail Blazers,Sleep Train Arena,True
 11-13-2013,10:00 PM,Brooklyn Nets,Sleep Train Arena,True
 11-15-2013,10:30 PM,Detroit Pistons,Sleep Train Arena,True
@@ -77,7 +77,7 @@ DATE,TIME(EST),OPPONENT,ARENA,HOME
 4-4-2014,10:30 PM,Golden State Warriors,Oracle Arena,False
 4-6-2014,6:00 PM,Dallas Mavericks,Sleep Train Arena,True
 4-8-2014,10:00 PM,Oklahoma City Thunder,Sleep Train Arena,True
-4-9-2014,10:00 PM,Portland Trail Blazers,Rose Garden,False
+4-9-2014,10:00 PM,Portland Trail Blazers,Moda Center,False
 4-12-2014,3:30 PM,Los Angeles Clippers,Staples Center,False
 4-13-2014,9:00 PM,Minnesota Timberwolves,Sleep Train Arena,True
 4-16-2014,10:30 PM,Phoenix Suns,Sleep Train Arena,True
